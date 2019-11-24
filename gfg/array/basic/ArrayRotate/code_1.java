@@ -1,3 +1,6 @@
+//this Algrithm shifts the elements of the array one by one
+//time: o(nd)
+//space: o(1)
 import java.lang.*;
 import java.util.*;
 import java.io.*;
